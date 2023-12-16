@@ -1,4 +1,4 @@
-# Repositório do Daniel Romeiro
+# Repositório público do Daniel Romeiro
 Todos conteúdos produzidos ou editados por mim.
 
 ## Curso de HTML5 e CSS3
